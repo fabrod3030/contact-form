@@ -1,6 +1,6 @@
 @import url("https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css");
 
-h1 {
+h1, p {
 	text-align: center;
 	margin: 35px 0 20px 0 !important;
 }
@@ -10,7 +10,4 @@ small {
     color: lightblue;
   }
 
-  p {
-	text-align: center;
-	margin: 35px 0 20px 0 !important;
-}
+ 
